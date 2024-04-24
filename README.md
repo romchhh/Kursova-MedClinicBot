@@ -54,9 +54,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 MIT
 
 **Contact:**
-Your Name
+...
 
 **Project Link:**
-[Project Repository](https://t.me/PortMedClinicBot)
+[TelegramBot](https://t.me/PortMedClinicBot)
 
 
