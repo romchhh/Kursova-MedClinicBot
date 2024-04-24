@@ -10,8 +10,8 @@ This project is a Telegram bot designed to assist users in scheduling appointmen
 - Admin panel for managing the bot and viewing statistics
 
 **Installation:**
-1. Clone the repository
-2. Install the required packages
+1. Clone the repository `git clone https://github.com/romchhh/Kursova-MedClinicBot/`
+2. Install the required packages `pip install -r requirements.txt`
 3. Set up the bot token and other configuration variables in the `config.py` file.
 4. Run the bot:
 
@@ -49,6 +49,6 @@ MIT
 Your Name
 
 **Project Link:**
-[Project Repository](https://github.com/yourusername/projectname)
+[Project Repository](https://t.me/PortMedClinicBot)
 
 
