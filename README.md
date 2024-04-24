@@ -11,9 +11,17 @@ This project is a Telegram bot designed to assist users in scheduling appointmen
 
 **Installation:**
 1. Clone the repository `git clone https://github.com/romchhh/Kursova-MedClinicBot/`
-2. Install the required packages `pip install -r requirements.txt`
-3. Set up the bot token and other configuration variables in the `config.py` file.
-4. Run the bot:
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Set up your Telegram bot token, group ID, admin IDs, session name, API hash, API ID, and other configurations in the `config.py` file.
+
+```python
+TOKEN = 'your_telegram_bot_token'
+GROUP_ID = 'your_telegram_group_id'
+ADMIN_IDS = ['admin_user_id1', 'admin_user_id2']
+```
+
+4. Run the bot using `python main.py`.
+
 
 
 **Usage:**
