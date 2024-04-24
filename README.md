@@ -42,10 +42,21 @@ ADMIN_IDS = ['admin_user_id1', 'admin_user_id2']
 - Questions: view and answer questions from users
 
 **Screenshots:**
-- [Main Menu](screenshots/main_menu.png)
-- [Declaration Form](screenshots/declaration_form.png)
-- [Schedule Appointment](screenshots/schedule_appointment.png)
-- [Admin Panel](screenshots/admin_panel.png)
+![image](https://github.com/romchhh/Kursova-MedClinicBot/assets/123520267/266dd7d0-becb-4c80-a9cb-2601f57cc8b0)
+
+- [Main Menu]
+- ![image](https://github.com/romchhh/Kursova-MedClinicBot/assets/123520267/81da360d-a303-437c-848e-fe58671fbb8e)
+
+- [Declaration Form]
+- ![image](https://github.com/romchhh/Kursova-MedClinicBot/assets/123520267/7204245e-c3b2-484b-b253-be47eee64994)
+
+
+- [Schedule Appointment]
+- ![image](https://github.com/romchhh/Kursova-MedClinicBot/assets/123520267/27874374-b8b5-4eb3-8306-2b8cf6baf3f6)
+
+- [Admin Panel]
+- ![image](https://github.com/romchhh/Kursova-MedClinicBot/assets/123520267/d8940f62-eaa4-4f61-8860-5031cc3fe031)
+
 
 **Contributing:**
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
